@@ -24,6 +24,7 @@ class ViewController: UIViewController {
     
     private let answers = [
         "It is certain.",
+        "For Certain, Dude!",
         "It is decidedly so.",
         "Without a doubt.",
         "Yes - definitely.",
